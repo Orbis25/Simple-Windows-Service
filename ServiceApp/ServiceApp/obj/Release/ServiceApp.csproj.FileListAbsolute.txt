@@ -1,0 +1,8 @@
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\bin\Release\ServiceApp.exe.config
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\bin\Release\ServiceApp.exe
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\bin\Release\ServiceApp.pdb
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\obj\Release\ServiceApp.ProjectInstaller.resources
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\obj\Release\ServiceApp.csproj.GenerateResource.cache
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\obj\Release\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\obj\Release\ServiceApp.exe
+C:\Users\Orbis\source\repos\ServiceApp\ServiceApp\obj\Release\ServiceApp.pdb

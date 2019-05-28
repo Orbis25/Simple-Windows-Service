@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceApp", "ServiceApp\ServiceApp.csproj", "{27AD96CF-0BDF-4BBB-8F90-AA3309366E18}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F002F73C-0B0E-4A53-846B-35234E53F7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27AD96CF-0BDF-4BBB-8F90-AA3309366E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AD96CF-0BDF-4BBB-8F90-AA3309366E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AD96CF-0BDF-4BBB-8F90-AA3309366E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AD96CF-0BDF-4BBB-8F90-AA3309366E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F002F73C-0B0E-4A53-846B-35234E53F7DB}.Debug|Any CPU.ActiveCfg = Debug
+		{F002F73C-0B0E-4A53-846B-35234E53F7DB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D67F70-CB34-4E6E-8681-1987628E0365}
+	EndGlobalSection
+EndGlobal
